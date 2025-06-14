@@ -1,4 +1,0 @@
-python-binance
-aiogram
-numpy
-pandas
